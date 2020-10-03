@@ -8,8 +8,8 @@ Tweet: https://twitter.com/Criamon/status/1312363408868679683?s=20
 I probably worked 30 minutes on it, researching and trying it out on my iPhone with iOS 14.x
 
 ## Prerequisites:
-Voicecontrol / Sprachsteuerung = iOS 13 and higher
-Shortcut / Kurzbefehle = iOS 12 and higher
+- Voicecontrol / Sprachsteuerung = iOS 13 and higher
+- Shortcut / Kurzbefehle = iOS 12 and higher
 
 
 ## English - Short guide
