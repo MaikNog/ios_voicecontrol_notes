@@ -12,7 +12,6 @@ Voicecontrol / Sprachsteuerung = iOS 13 and higher
 Shortcut / Kurzbefehle = iOS 12 and higher
 
 
-#
 ## TL;DR
 1. Create a shortcut (KB).
 2. Then activate VoiceControl (VC).
@@ -23,7 +22,7 @@ Tried it at home with a noisy TV in the background.
 
 TODO: would like to get rid of the * for the "confirm" command.
 
-#
+
 ## German
 1. Einen Kurzbefehl (KB) erstellen.
 2. Dann Sprachsteuerung (SP) aktivieren.
@@ -35,8 +34,6 @@ Habe es zuhause mit TV Geräuschen im Hintergrund ausprobiert.
 TODO: würde gerne das * wegbekommen für den „Bestätigen“ Befehl.
 
 
-
-#
 #### Reading inspiration:
 https://www.macrumors.com/guide/voice-control/
 https://www.reddit.com/r/shortcuts/comments/dotbtq/a_workaround_that_can_run_gestures_and_run/
