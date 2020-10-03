@@ -36,11 +36,12 @@ Habe es zuhause mit TV Geräuschen im Hintergrund ausprobiert.
 TODO: Würde gerne das (*) wegbekommen für den „Bestätigen“ Befehl.
 
 # What are we doing?
-We create a shortcut (name it with one syllable, e.g. "note"), which takes actions: 
+_Tip:_ Give the shortcut a short name (e.g: one syllable: "note") for faster speaking and activation.
+<br> We create a shortcut, which takes actions: 
 - get current date
 - format the date
 - put it into the clipboard)
-- paste the clipboard into a note in the Notes app.
+- paste the clipboard into a note in the Notes app
 
 # How do I use this?
 - Activate VoiceControl. 
@@ -48,6 +49,22 @@ We create a shortcut (name it with one syllable, e.g. "note"), which takes actio
 - Say "Confirm".
  
 _Result_: A note with the date and timestamp is created.
+
+
+# German - Was tun wir?
+_Tipp:_ Geben Sie dem Kurzbefehl einen kurzen Namen (z.B.: eine Silbe: "Note") für schnelleres Sprechen und Aktivieren.
+<br> Wir erzuegen einen Kurzbefehl, die Aktionen enthält: 
+- aktuelles Datum holen
+- das Datum formatieren
+- in die Zwischenablage kopieren
+- die Zwischenablage in eine Notiz in der Notizen-App einfügen
+
+# German - Wie benutze ich das?
+- Aktivieren Sie die Sprachsteuerung. 
+- Sagen Sie den Namen des Kurzbefehls (z.B. "Note").
+- Sagen Sie "Bestätigen".
+ 
+_Ergebnis_: Eine Notiz mit Datum und Zeitstempel wird erstellt.
 
 
 #### Reading inspiration:
