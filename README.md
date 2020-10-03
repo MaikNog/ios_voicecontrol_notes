@@ -12,26 +12,40 @@ Voicecontrol / Sprachsteuerung = iOS 13 and higher
 Shortcut / Kurzbefehle = iOS 12 and higher
 
 
-## English
-1. Create a shortcut (KB).
+## English - Short guide
+1. Create a shortcut in the Shortcut app.
 2. Then activate VoiceControl (VC).
-3. Link VC with KB.
-4. (*) Link VC with <item name> action.
+3. Link a new VoiceControl with the shortcut.
+4. (*) Additionally link VoiceControl with the action: < item name >. _(This is required to execute the "confirm" command.)_
 
 Tried it at home with a noisy TV in the background.
 
 TODO: Would like to get rid of the (*) for the "confirm" command.
 
 
-## German
+## German - Kurzanleitung
 1. Einen Kurzbefehl (KB) erstellen.
 2. Dann Sprachsteuerung (SP) aktivieren.
-3. SP mit KB verknüpfen.
-4. (*) SP mit <item-Name> Aktion verknüpfen.
+3. In der Sprachsteuerung den Kurzbefehl verknüpfen.
+4. (*) Zusätzlich in der Sprachsteuerung mit der Aktion: <item-Name> verknüpfen. _(Dieses wird für das "Ausführen" Kommando gebraucht.)_
 
 Habe es zuhause mit TV Geräuschen im Hintergrund ausprobiert.
 
 TODO: Würde gerne das (*) wegbekommen für den „Bestätigen“ Befehl.
+
+# What are we doing?
+We create a shortcut (name it with one syllable, e.g. "note"), which takes actions: 
+- get current date
+- format the date
+- put it into the clipboard)
+- paste the clipboard into a note in the Notes app.
+
+# How do I use this?
+- Activate VoiceControl. 
+- Say the name of the shortcut (e.g. "note").
+- Say "Confirm".
+ 
+_Result_: A note with the date and timestamp is created.
 
 
 #### Reading inspiration:
