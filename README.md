@@ -12,26 +12,26 @@ Voicecontrol / Sprachsteuerung = iOS 13 and higher
 Shortcut / Kurzbefehle = iOS 12 and higher
 
 
-## TL;DR
+## English
 1. Create a shortcut (KB).
 2. Then activate VoiceControl (VC).
 3. Link VC with KB.
-4. Link *VC with <item name>.
+4. (*) Link VC with <item name> action.
 
 Tried it at home with a noisy TV in the background.
 
-TODO: would like to get rid of the * for the "confirm" command.
+TODO: Would like to get rid of the (*) for the "confirm" command.
 
 
 ## German
 1. Einen Kurzbefehl (KB) erstellen.
 2. Dann Sprachsteuerung (SP) aktivieren.
 3. SP mit KB verknüpfen.
-4. *SP mit <item-Name> verknüpfen.
+4. (*) SP mit <item-Name> Aktion verknüpfen.
 
 Habe es zuhause mit TV Geräuschen im Hintergrund ausprobiert.
 
-TODO: würde gerne das * wegbekommen für den „Bestätigen“ Befehl.
+TODO: Würde gerne das (*) wegbekommen für den „Bestätigen“ Befehl.
 
 
 #### Reading inspiration:
