@@ -6,7 +6,10 @@ Tweet: https://twitter.com/Criamon/status/1312363408868679683?s=20
 
 
 I probably worked 30 minutes on it, researching and trying it out on my iPhone with iOS 14.x
-    
+
+## Prerequisites:
+Voicecontrol / Sprachsteuerung = iOS 13 and higher
+Shortcut / Kurzbefehle = iOS 12 and higher
 
 
 #
@@ -37,3 +40,6 @@ TODO: würde gerne das * wegbekommen für den „Bestätigen“ Befehl.
 #### Reading inspiration:
 https://www.macrumors.com/guide/voice-control/
 https://www.reddit.com/r/shortcuts/comments/dotbtq/a_workaround_that_can_run_gestures_and_run/
+https://uk.pcmag.com/apple-ipod-touch-2015/118227/how-to-automate-your-life-with-apples-ios-shortcuts-app
+https://support.apple.com/guide/shortcuts/welcome/ios
+https://support.apple.com/de-de/guide/shortcuts/welcome/ios (German)
