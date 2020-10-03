@@ -1,4 +1,4 @@
-#"Can one automate taking a timestamp on an iPhone hands-free?"
+# "Can one automate taking a timestamp on an iPhone hands-free?"
 
 Sparked by a twitter question (in German) from Heiko Stapf (https://twitter.com/Criamon).
 
