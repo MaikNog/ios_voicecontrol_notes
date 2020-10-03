@@ -16,7 +16,8 @@ I probably worked 30 minutes on it, researching and trying it out on my iPhone w
 1. Create a shortcut in the Shortcut app.
 2. Then activate VoiceControl (VC).
 3. Link a new VoiceControl with the shortcut.
-4. (*) Additionally link VoiceControl with the action: < item name >. _(This is required to execute the "confirm" command.)_
+4. (*) Additionally link VoiceControl with the action: < item name >. <br>
+_(This is required to execute the "confirm" command.)_
 
 Tried it at home with a noisy TV in the background.
 
@@ -27,7 +28,8 @@ TODO: Would like to get rid of the (*) for the "confirm" command.
 1. Einen Kurzbefehl (KB) erstellen.
 2. Dann Sprachsteuerung (SP) aktivieren.
 3. In der Sprachsteuerung den Kurzbefehl verknüpfen.
-4. (*) Zusätzlich in der Sprachsteuerung mit der Aktion: <item-Name> verknüpfen. _(Dieses wird für das "Ausführen" Kommando gebraucht.)_
+4. (*) Zusätzlich in der Sprachsteuerung mit der Aktion: <item-Name> verknüpfen. 
+<br>_(Dieses wird für das "Ausführen" Kommando gebraucht.)_
 
 Habe es zuhause mit TV Geräuschen im Hintergrund ausprobiert.
 
