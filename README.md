@@ -73,3 +73,8 @@ https://www.reddit.com/r/shortcuts/comments/dotbtq/a_workaround_that_can_run_ges
 https://uk.pcmag.com/apple-ipod-touch-2015/118227/how-to-automate-your-life-with-apples-ios-shortcuts-app
 https://support.apple.com/guide/shortcuts/welcome/ios
 https://support.apple.com/de-de/guide/shortcuts/welcome/ios (German)
+
+### Patreon sponsor link
+If this explanation helped you, feel free to drop a Euro as a Thank you.
+Wenn diese Anleitung euch geholfen hat, würde ich mich über einen Euro als Danke Schön freuen.
+https://www.patreon.com/maiknog
