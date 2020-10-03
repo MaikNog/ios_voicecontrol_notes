@@ -1,11 +1,14 @@
 # ios_voicecontrol_notes
 
-Sparked by a twitter question from @Criamon .
+Sparked by a twitter question from Heiko Stapf (https://twitter.com/Criamon)
+https://twitter.com/Criamon/status/1312363408868679683?s=20
 
 
 "Can one automate taking a timestamp on an iPhone hands-free?"
 
 I probably worked 30 minutes on it, researching and trying it out on my iPhone with iOS 14.x
+
+
 
 **TL;DR**
 Create a shortcut (KB).
